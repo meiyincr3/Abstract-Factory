@@ -1,4 +1,3 @@
-# Abstract-Factory![Abstract Factory](https://user-images.githubusercontent.com/91926069/181715528-84c28da4-833d-4dc0-93be-ec974522572e.png)
 # FigurasGeometricas
 -Programa que calcula el area  de las figuras geométricas como:
 /Círculo
@@ -8,3 +7,7 @@ Triángulo/
 /Esfera
 Cubo
 Tetraedro/
+
+
+
+![Abstract Factory](https://user-images.githubusercontent.com/91926069/181810378-acbca603-e89b-496e-93f7-93e609f24c0e.png)
